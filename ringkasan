@@ -1,0 +1,12 @@
+<!-- Perintah git init akan membuat sebuah direktori bernama .git di dalam proyek -->
+<!-- perintah git status untuk melihat status repositorinya. -->
+<!-- Modified adalah kondisi dimana revisi atau perubahan sudah dilakukan -->
+<!-- Staged adalah kondisi dimana revisi sudah ditandai, tetapi belum disimpan -->
+<!-- ommited adalah kondisi dimana revisi sudah disimpan -->
+<!-- Untuk mengubah kondisi file dari modified ke staged gunakan perintah git add -->
+<!-- git log, untuk melihat log perubahan apa saja yang sudah dilakukan dalam repositori. -->
+<!--  ingin mengembalikannya perubahan file seperti keadaan sebelumnya. git checkout, git reset, dan git revert -->
+<!-- Perintah untuk membuat cabang adalah git branch <nama> -->
+<!-- git checkout untuk pindah ke cabang lain -->
+<!-- menggabungkan cabang dengan perintah git merge -->
+<!-- menghapus cabng engan perintah git branch -d <nama> -->
